@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(../../img/o_gulp.png?v=a1eKWnsLZotmIcFSv13xUA%3D%3D) top center no-repeat;
+}
+.gulp{
+    font-weight: 700;
+    font-size: 26px;
+    color: #f00;
+    cursor: pointer;
+}
+.gulp:hover{
+    opacity:.5;
+}
